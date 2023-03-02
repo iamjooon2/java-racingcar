@@ -1,7 +1,5 @@
 package racingcar.domain;
 
-import racingcar.vo.Name;
-
 public class Car implements Comparable<Car>{
     private static final int INIT_POSITION = 0;
     private static final int BOUNDARY = 4;
